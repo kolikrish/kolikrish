@@ -44,6 +44,19 @@ Right now, I’m deepening my skills in UI engineering, animation systems, desig
 
 ## Tech Stack
 
+### Core Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+
+### Styling & Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ### Motion & Interaction
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=javascript&logoColor=white)
 ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-FF6B6B?style=flat-square)
@@ -53,12 +66,14 @@ Right now, I’m deepening my skills in UI engineering, animation systems, desig
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js)
 ![React Three Fiber](https://img.shields.io/badge/R3F-61DAFB?style=flat-square&logo=react)
 
-### State, Data & Frontend
+### State, Data & Testing
 ![Zustand](https://img.shields.io/badge/Zustand-444444?style=flat-square)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ### Design & Product Thinking
-UI • UX • Wireframing • Prototyping • Design Systems • Product Design
+UI • UX • Wireframing • Prototyping • Design Systems • Product Design • Scalable Interfaces • Accessibility
 
 ---
 
