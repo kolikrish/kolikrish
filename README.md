@@ -55,6 +55,7 @@ Right now, I’m deepening my skills in UI engineering, animation systems, desig
 ### Styling & Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Motion & Interaction
@@ -67,6 +68,7 @@ Right now, I’m deepening my skills in UI engineering, animation systems, desig
 ![React Three Fiber](https://img.shields.io/badge/R3F-61DAFB?style=flat-square&logo=react)
 
 ### State, Data & Testing
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-444444?style=flat-square)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
