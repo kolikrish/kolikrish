@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <strong>Building premium digital experiences where design, motion, and code feel as good as they look.</strong>
+  <strong>Building premium digital experiences where design, motion and code feel as good as they look.</strong>
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ## About Me
 
-I build polished websites and interactive product experiences that blend visual storytelling with smooth engineering. My work sits at the intersection of design, motion, usability, and frontend craft — creating interfaces that feel premium, responsive, and genuinely memorable.
+I build polished websites and interactive product experiences that blend visual storytelling with smooth engineering. My work sits at the intersection of design, motion, usability and frontend craft - creating interfaces that feel premium, responsive and genuinely memorable.
 
-Right now, I’m deepening my skills in UI engineering, animation systems, design systems, and product thinking — with a goal of becoming one of the strongest creative frontend developers in the space.
+Right now, I’m deepening my skills in UI engineering, animation systems, design systems and product thinking - with a goal of becoming one of the strongest creative frontend developers in the space.
 
 > design → motion → code → ship
 
@@ -69,7 +69,7 @@ Founder & Creator
 
 [zenora-ui.in](http://zenora-ui.in/)
 
-A product-focused design and frontend brand experience built around clarity, craft, and aesthetic velocity.
+A product-focused design and frontend brand experience built around clarity, craft and aesthetic velocity.
 
 ---
 
@@ -103,13 +103,13 @@ A product-focused design and frontend brand experience built around clarity, cra
 
 research → wireframe → design → prototype → develop → animate → optimize → launch
 
-I like to build with intention — starting from user experience and product value, then shaping the interface, motion, and engineering around that vision.
+I like to build with intention - starting from user experience and product value, then shaping the interface, motion and engineering around that vision.
 
 ---
 
 ## Philosophy
 
-> “Great products aren’t built with code alone — they need great design, UX, performance, motion, typography, and attention to detail.”
+> “Great products aren’t built with code alone, they need great design, UX, performance, motion, typography and attention to detail.”
 
 > “Design is how it works. Motion is how it feels. Code is how it comes alive.”
 
@@ -120,5 +120,5 @@ I like to build with intention — starting from user experience and product val
 </p>
 
 <p align="center">
-  <sub>Crafted with curiosity, motion, and a love for beautiful interfaces.</sub>
+  <sub>Crafted with curiosity, motion and a love for beautiful interfaces.</sub>
 </p>
